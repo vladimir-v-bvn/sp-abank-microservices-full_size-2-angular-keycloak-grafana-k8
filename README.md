@@ -1,6 +1,7 @@
 Abank: Full-size microservices project on Spring Cloud.
 
 All application and infrastructure services are dockerized and istalled in Kubernetes.
+
 Distributed tracing with Tempo, metrics with Micrometer/Prometheus, logs collection with Loki
 and Grafana monitorig tool are provided for all services.
 
