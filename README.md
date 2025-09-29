@@ -7,6 +7,8 @@ and Grafana monitorig tool are provided for all services.
 
 Technologies used:
 
+  Angular
+  
   MongoDB, MySQL
   
   Spring Cloud, Spring MVC, Spring Data MongoDB, Spring Data JPA, Spring Security
