@@ -1,0 +1,9 @@
+{
+  "type": "record",
+  "name": "CrdCardCreatedEvent",
+  "namespace": "com.vber.abank.crdcard_service.event",
+  "fields": [
+    { "name": "crdCardNumber", "type": "string" },
+    { "name": "email", "type": "string" }
+  ]
+}

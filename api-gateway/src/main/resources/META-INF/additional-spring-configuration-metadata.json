@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "loki.url",
+    "type": "java.lang.String",
+    "description": "A description for 'loki.url'"
+  },
+  {
+    "name": "account.service.url",
+    "type": "java.lang.String",
+    "description": "A description for 'account.service.url'"
+  },
+  {
+    "name": "crdcard.service.url",
+    "type": "java.lang.String",
+    "description": "A description for 'crdcard.service.url'"
+  },
+  {
+    "name": "deposit.service.url",
+    "type": "java.lang.String",
+    "description": "A description for 'deposit.service.url'"
+  }
+]}
