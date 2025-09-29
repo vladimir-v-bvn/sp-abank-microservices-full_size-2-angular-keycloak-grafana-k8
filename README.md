@@ -35,7 +35,7 @@ account-service provides endpoint to create an account in MongoDB.
 crdcard-service provides endpoint to create a credit card,
   connects to deposit-service to check availability of funds through different REST clients,
   creates a credit card in MySQL,
-  sends a message to the notification-service through Kafka using Avro serializer and Schema Registry.
+  sends messages to the notification-service through Kafka using Avro serializer and Schema Registry.
   
 deposit-service reads data from MySQL and provides endpoint to check availability of funds.
 
