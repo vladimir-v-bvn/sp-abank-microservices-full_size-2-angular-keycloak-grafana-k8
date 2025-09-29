@@ -5,14 +5,23 @@ Distributed tracing with Tempo, metrics with Micrometer/Prometheus, logs collect
 and Grafana monitorig tool are provided for all services.
 
 Technologies used:
+
   MongoDB, MySQL
+  
   Spring Cloud, Spring MVC, Spring Data MongoDB, Spring Data JPA, Spring Security
+  
   KeyCloak
+  
   Circuit Breaker/Resilience4j
+  
   OpenAPI/Swagger
+  
   Kafka, Avro, Schema Registry
+
   Loki, Tempo, Grafana
+  
   Micrometer, Prometheus
+  
   Docker, Docker Compose, Kubernetes
 
 api-gateway provides common logon to the apllication,
