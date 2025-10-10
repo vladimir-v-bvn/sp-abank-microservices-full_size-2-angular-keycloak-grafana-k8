@@ -1,6 +1,6 @@
 Abank: Full-size microservices project on Spring Cloud.
 
-All application and infrastructure services are dockerized and istalled in Kubernetes.
+All application and infrastructure services are dockerized and installed in Kubernetes.
 
 Distributed tracing with Tempo, metrics with Micrometer/Prometheus, logs collection with Loki
 and Grafana monitorig tool are provided for all services.
@@ -27,7 +27,7 @@ Technologies used:
   
   Docker, Docker Compose, Kubernetes
 
-api-gateway provides common logon to the apllication,
+api-gateway provides common logon to the application,
   uses KeyCloak to manage users and provide JWT tokens to access services,
   secures the application with Spring Security,
   routes requests to secured endpoints.
